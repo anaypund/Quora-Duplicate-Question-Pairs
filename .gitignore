@@ -1,0 +1,8 @@
+Word2Vec data.csv
+train.csv
+quora-question-pairs/
+models/
+optimized_word2vec.model
+./rf_gini.pkl
+./rf_log_loss.pkl
+xgb.pkl
